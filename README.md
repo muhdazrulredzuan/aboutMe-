@@ -40,6 +40,12 @@ I’m an **Industrial Automation & Robotics enthusiast** with hands-on experienc
 
 ---
 
+## 🎓 Certifications
+- **SMC International Training – SMCT-PLC 1**  
+  Successfully completed *Programmable Logic Controller (PLC) Level 1* training under SMC International Training program.
+
+---
+
 ## 📫 Connect with me
 - 🐙 GitHub: [muhdazrulredzuan](https://github.com/muhdazrulredzuan)  
 - 💼 LinkedIn: [Mohd Azrul](https://www.linkedin.com/in/mohdazrul/)
