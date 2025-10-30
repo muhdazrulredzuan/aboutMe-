@@ -48,5 +48,5 @@ I’m an **Industrial Automation & Robotics enthusiast** with hands-on experienc
 
 ## 📫 Connect with me
 - 🐙 GitHub: [muhdazrulredzuan](https://github.com/muhdazrulredzuan)  
-- 💼 LinkedIn: [Mohd Azrul](https://www.linkedin.com/in/mohdazrul/)
+- 💼 LinkedIn: [Mohd Azrul](https://www.linkedin.com/in/mohd-azrul-151998271)
 
